@@ -1,7 +1,5 @@
 # #bolhadev
 
-Este é o site da #bolhadev, ele já está em contrução.
+Bora clonar o Twitter #bolhadev
 
-A idéia é dar continuidade a #bolhadev do Twitter.
-
-Deixe suas dúvidas, críticas ou sugestões <a href="https://github.com/xburgr/bolhadev.com/issues">nas issues</a>
+Deixe <a href="https://github.com/xburgr/bolhadev.com/issues">aqui</a> suas dúvidas, críticas ou sugestões
