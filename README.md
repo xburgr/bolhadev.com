@@ -1,6 +1,6 @@
 # #bolhadev
 
-Este é o site da #bolhadev, ele está em contrução.
+Este é o site da #bolhadev, ele já está em contrução.
 
 A idéia é dar continuidade a #bolhadev do Twitter.
 
