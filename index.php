@@ -12,4 +12,4 @@
 <h1>#bolhadev</h1>
   <p>Este é o site da #bolhadev, ele está em contrução.</p>
   <p>A idéia é dar continuidade a #bolhadev do Twitter.</p>
-  <p>Deixem suas dicas, críticas e sugestões no <a href="https://github.com/xburgr/bolhadev.com/issues">Github</a>.</p>
+  <p>Deixem suas dúvidas, críticas ou sugestões <a href="https://github.com/xburgr/bolhadev.com/issues">nas issues</a>.</p>
